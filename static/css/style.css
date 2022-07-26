@@ -7,7 +7,7 @@ background: linear-gradient(to right, #050505 0%, #1C6EA4 49%, #303031 100%);
   }
   .jumbotron {
     color:rgb(239, 247, 247);
-    background-image: url("/static/css/images/burgerbanner.jpg");
+    background-image: url("burgerbanner.jpg");
     background-size: 100% 100%;
     text-align: left;
   }
