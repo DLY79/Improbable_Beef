@@ -86,7 +86,7 @@ function buildCharts(sample) {
     }];
     // 9. Create the layout for the bar chart. 
     var layout = {
-      title: "Top 10 Bacteria Found in Belly Button"
+      title: "Top 10 Bacteria Found in Belly Button "
      
     };
     // 10. Use Plotly to plot the data with the layout. 
